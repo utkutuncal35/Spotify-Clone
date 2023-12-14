@@ -1,0 +1,6 @@
+body, html, .wrapper {
+    font-family: 'Roboto', sans-serif;
+}
+.scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
